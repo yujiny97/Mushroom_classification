@@ -3,10 +3,12 @@
 
 58가지 버섯 클래시피케이션
 <p align="center">
-	<img src="./capture.png">
-	<img src="./capture2.png">
-	<img src="./capture3.png">
+	<img src="./capture.png" width="300" height="300">
+	<img src="./capture2.png" width="200" height="200">
+	<img src="./capture3.png" width="200" height="200">
 </p>
+
+
 "notmushroom",   
 "독버섯_muscaria",  
 "독버섯_갈색고리갓버섯",  
