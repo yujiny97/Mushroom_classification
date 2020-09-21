@@ -3,7 +3,7 @@
 
 58가지 버섯 클래시피케이션
 <p align="center">
-	<img src="./capture.png" width="300" height="300">
+	<img src="./capture.png" width="400" height="300">
 	<img src="./capture2.png" width="200" height="200">
 	<img src="./capture3.png" width="200" height="200">
 </p>
