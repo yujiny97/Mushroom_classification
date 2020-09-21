@@ -1,7 +1,7 @@
 # Mushroom Classification
-10 mushroom to 58 mushroom Classification
+10 mushroom to 58 mushroom Classification  
 
-58가지 버섯 클래시피케이션
+58가지 버섯 클래시피케이션  
 <p align="center">
 	<img src="./capture.png" width="400" height="300">
 	<img src="./capture2.png" width="200" height="300">
@@ -9,7 +9,8 @@
 </p>
 
 
-하지만 정확도는 그리 높지 않다...ㅠㅠ...
+하지만 정확도는 그리 높지 않다...ㅠㅠ...  
+
 "notmushroom",   
 "독버섯_muscaria",  
 "독버섯_갈색고리갓버섯",  
