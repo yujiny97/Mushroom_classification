@@ -28,18 +28,18 @@ nb_classes=len(categories)
 
 model= Sequential()
 model.add(Conv2D(kernel_size=(3,3), filters=32, activation='relu', input_shape=(64,64,3,)))
-model.add(Dropout(0.7))
+model.add(Dropout(0.5))
 
 model.add(Conv2D(filters=64,kernel_size = (3,3),activation='relu'))
-model.add(Dropout(0.7))
+model.add(Dropout(0.5))
 model.add(MaxPooling2D(2,2))
 
 model.add(Conv2D(filters=128,kernel_size = (3,3),activation='relu'))
-model.add(Dropout(0.7))
+model.add(Dropout(0.5))
 model.add(MaxPooling2D(2,2))
 
 model.add(Conv2D(filters=30,kernel_size = (3,3),activation='relu'))
-model.add(Dropout(0.7))
+model.add(Dropout(0.5))
 model.add(MaxPooling2D(2,2))
 
 model.add(Flatten())
